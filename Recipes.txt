@@ -6,5 +6,7 @@ kheer
 upma
 Aloo Fry
 
+Beans 
+Pizza
 
 Thanks You
